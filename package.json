@@ -1,0 +1,14 @@
+{
+  "name": "ai-academy-bot",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  }
+}
